@@ -4,25 +4,44 @@ This repository is designed to provide resources and materials to help biologist
 
 ## Table of Contents
 
-1. [Courses](#courses)
-2. [Blogs](#blog)
-3. [Research Papers](#papers)
+1. [Basic Knowledge](#basic-knowledge)
+2. [Courses](#courses)
+3. [Blogs](#blog)
 4. [Tools and Libraries](#tools)
-5. [Books](#books)
+5. [Research Papers](#papers)
+6. [Books](#books)
+
+## Basic Knowledge
+
+**Python**
+
+[Python for Everybody](https://www.coursera.org/specializations/python)
+
+TODO More recommendation on the tutorial
 
 ## Courses
 
-- [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning): very intuitive courses and there are coding practice and tests after each course
+- Basic: [Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+- Intermediate: [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+
+Both courses are taught by Andrew Ng, so the course contents are consistent. The course are very intuitive and beginner friendly. There are exercise after each session\
+
 
 ## Blog
 
 Blogs can be intuitive and it has more figures, and sometimes Gifs.
-[Colah's github.io](https://colah.github.io/)
+- [Colah's github.io](https://colah.github.io/)
+- [Polo club's github.io](https://poloclub.github.io/#research-ai)
 
 
+## Languages and libraries
 
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [scikit-learn](https://scikit-learn.org/)
 
-<a name="papers"></a>
+I recommend to visit [PyTorch tutorials](https://pytorch.org/tutorials/) and find things that you are interested and try to run and change the codes.
+
 ## Research Papers
 
 TODO
@@ -30,12 +49,7 @@ TODO
 <Add relevant research papers here>
 
 
-<a name="tools"></a>
-## Languages and libraries
 
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [scikit-learn](https://scikit-learn.org/)
 
 
 ## Books
